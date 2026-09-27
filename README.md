@@ -236,5 +236,3 @@ The analysis indicates:
 - The dashboard provides visibility into admission and referral patterns.
 - Peak periods can be identified to support emergency room resource
   planning.
-
----
