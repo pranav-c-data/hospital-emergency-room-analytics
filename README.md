@@ -251,5 +251,4 @@ Screenshots/
     03_Patient_Details.png
     04_Key_Takeaways.png
 
-Documentation/
-    Project_Notes.md
+README.md
