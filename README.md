@@ -238,17 +238,3 @@ The analysis indicates:
   planning.
 
 ---
-
-# 📁 Repository Contents
-
-```text
-PowerBI/
-    Hospital_Emergency_Room_Dashboard.pbix
-
-Screenshots/
-    01_Monthly_View.png
-    02_Consolidated_View.png
-    03_Patient_Details.png
-    04_Key_Takeaways.png
-
-README.md
