@@ -20,16 +20,6 @@ The report contains four interactive pages:
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- Microsoft Power BI
-- DAX
-- Power Query
-- Data Modeling
-- Data Visualization
-
----
-
 ## 🎯 Business Objective
 
 The objective of this project is to analyze emergency room operations
@@ -236,3 +226,13 @@ The analysis indicates:
 - The dashboard provides visibility into admission and referral patterns.
 - Peak periods can be identified to support emergency room resource
   planning.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Data Visualization
