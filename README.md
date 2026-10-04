@@ -1,6 +1,6 @@
 # hospital-emergency-room-analytics
 Interactive Power BI dashboard analyzing hospital emergency room patient volume, waiting time, satisfaction, admissions, referrals, and demographics.
-# 🏨 Hospital Emergency Room Analytics Dashboard
+# 🏥 Hospital Emergency Room Analytics Dashboard
 
 ## 📊 Project Overview
 
