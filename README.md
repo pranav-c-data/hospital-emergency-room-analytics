@@ -242,5 +242,7 @@ The dashboard incorporates several Power BI features:
 ## 👤 Project Type
 
 **Data Analytics / Business Intelligence**  
+
 **Domain:** Healthcare / Hospital Operations  
+
 **Primary Tool:** Microsoft Power BI
