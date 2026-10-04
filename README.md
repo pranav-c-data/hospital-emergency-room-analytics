@@ -49,6 +49,25 @@ The dataset contains approximately:
 
 ---
 
+# 🔍 Key Business Questions
+
+The dashboard was designed to answer questions such as:
+
+1. How many patients visit the emergency room?
+2. What is the average patient waiting time?
+3. How satisfied are patients with their emergency room experience?
+4. What percentage of patients are seen within 30 minutes?
+5. Which days have the highest patient volumes?
+6. Which hours experience the highest patient demand?
+7. Which age groups account for the largest number of patients?
+8. What is the distribution of patients by gender?
+9. Which departments receive the most referrals?
+10. What are the admission patterns?
+11. How does patient volume change over time?
+12. What demographic patterns can be observed?
+
+---
+
 # 📈 Dashboard Pages
 
 ## 1. Monthly View
@@ -176,24 +195,20 @@ overall admission patterns.
 
 ---
 
-# 🔍 Key Business Questions
+# 💡 Key Insights
 
-The dashboard was designed to answer questions such as:
+The analysis indicates:
 
-1. How many patients visit the emergency room?
-2. What is the average patient waiting time?
-3. How satisfied are patients with their emergency room experience?
-4. What percentage of patients are seen within 30 minutes?
-5. Which days have the highest patient volumes?
-6. Which hours experience the highest patient demand?
-7. Which age groups account for the largest number of patients?
-8. What is the distribution of patients by gender?
-9. Which departments receive the most referrals?
-10. What are the admission patterns?
-11. How does patient volume change over time?
-12. What demographic patterns can be observed?
+- Emergency room activity varies across months, days, and hours.
+- Patient waiting time is an important operational metric.
+- Patient satisfaction can be analyzed alongside waiting time.
+- General Practice represents a significant referral category.
+- Patient volumes vary across age groups.
+- The dashboard provides visibility into admission and referral patterns.
+- Peak periods can be identified to support emergency room resource
+  planning.
 
----
+  ---
 
 # 📊 Power BI Features Used
 
@@ -211,21 +226,6 @@ The dashboard incorporates several Power BI features:
 - Data modeling
 - DAX measures
 - Power Query transformations
-
----
-
-# 💡 Key Insights
-
-The analysis indicates:
-
-- Emergency room activity varies across months, days, and hours.
-- Patient waiting time is an important operational metric.
-- Patient satisfaction can be analyzed alongside waiting time.
-- General Practice represents a significant referral category.
-- Patient volumes vary across age groups.
-- The dashboard provides visibility into admission and referral patterns.
-- Peak periods can be identified to support emergency room resource
-  planning.
 
 ---
 
