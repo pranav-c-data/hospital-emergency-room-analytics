@@ -229,10 +229,18 @@ The dashboard incorporates several Power BI features:
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - DAX
 - Power Query
 - Data Modeling
 - Data Visualization
+
+---
+
+## 👤 Project Type
+
+**Data Analytics / Business Intelligence**  
+**Domain:** Healthcare / Hospital Operations  
+**Primary Tool:** Microsoft Power BI
