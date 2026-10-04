@@ -49,7 +49,7 @@ The dataset contains approximately:
 
 ---
 
-# 🔍 Key Business Questions
+## 🔍 Key Business Questions
 
 The dashboard was designed to answer questions such as:
 
@@ -68,7 +68,7 @@ The dashboard was designed to answer questions such as:
 
 ---
 
-# 📈 Dashboard Pages
+## 📈 Dashboard Pages
 
 ## 1. Monthly View
 
@@ -195,7 +195,7 @@ overall admission patterns.
 
 ---
 
-# 💡 Key Insights
+## 💡 Key Insights
 
 The analysis indicates:
 
@@ -210,7 +210,7 @@ The analysis indicates:
 
   ---
 
-# 📊 Power BI Features Used
+## 📊 Power BI Features Used
 
 The dashboard incorporates several Power BI features:
 
@@ -229,7 +229,7 @@ The dashboard incorporates several Power BI features:
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - DAX
